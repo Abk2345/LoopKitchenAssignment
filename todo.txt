@@ -1,0 +1,11 @@
+Now to do:
+
+//get deta from database using api
+
+//create ways -> frontend to post source data
+
+//make report database table
+
+//add all the reports generated
+
+//check the correctness of the algorithms

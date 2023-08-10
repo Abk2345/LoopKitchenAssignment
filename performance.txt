@@ -1,0 +1,4 @@
+Trigger report api running
+Data insertion Complete!
+Time taken for report generation and saving (in min) is:  2.9983582854270936
+Success in running trigger report api!

@@ -1,0 +1,4 @@
+Assumption 1: All the data given are correct
+Assumption 2: If a datapoint for store status is active for a timestamp, whole hour interval for that particular time is considered to be active, and same otherwise
+Assumption 3: If uptime calculated for a store for particular interval (hour, day, week) is greater than scheduled time for those interval, then downtime is negative shows -> the store is doing overtime and by that much amount
+Assumption 4: the data -999 in report for entries shows these data weren't found in any of the interval (hour, day, week)
